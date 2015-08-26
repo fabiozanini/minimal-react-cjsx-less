@@ -2,6 +2,9 @@
 Minimal version of https://github.com/christianalfoni/react-app-boilerplate
 that includes CJSX transformation.
 
+### Install
+* Run `npm install`
+
 ### Development
 * Run `gulp`
 * Go to `localhost:8889` to display the app
