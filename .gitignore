@@ -1,4 +1,22 @@
-node_modules
+# Build folder (except HTML file)
 build/main.js
-build/specs.js
-build/vendors.js
+build/dependencies.js
+build/index.css
+
+# Node
+node_modules
+
+# Vim
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# Sublime
+/*.sublime-project
+*.sublime-workspace
+
+# Linux
+.*
+!.gitignore
+*~
