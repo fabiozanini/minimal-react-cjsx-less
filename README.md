@@ -3,6 +3,7 @@ Minimal version of https://github.com/christianalfoni/react-app-boilerplate
 that includes CJSX transformation.
 
 ### Install
+* Clone this repo
 * Run `npm install`
 
 ### Development
