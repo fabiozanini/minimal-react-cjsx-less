@@ -24,4 +24,4 @@ are supported by more complex backend code that is beyond the scope of this repo
 * **gulpfile**: Gulp configuration
 
 ### Technologies
-![React](readme_logos/react.svg)
+![React](readme_logos/react.png)
