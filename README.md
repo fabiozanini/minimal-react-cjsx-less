@@ -11,6 +11,7 @@ that includes CJSX transformation.
 ### Development
 * Run `gulp` (or the full path if gulp is not in your shell `PATH`)
 * Go to `localhost:8889` to display the app
+* The app reloads automatically when the CJSX source files change (via `watchify`)
 
 ### Directory
 * **app/**: ReactJS application in CJSX
