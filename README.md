@@ -1,6 +1,6 @@
-## React App Boilerplate
+## Minimal ReactJS application
 Minimal version of https://github.com/christianalfoni/react-app-boilerplate
-that includes CJSX transformation.
+that includes CJSX and LESS transformations.
 
 ### Install
 * Clone this repo
