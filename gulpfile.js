@@ -25,6 +25,7 @@ var appTask = function (options) {
   var appBundler = browserify({
     entries: [options.src],
     transform: [creactify],
+    extensions: ['.coffee', '.cjsx'],
     debug: true,
     cache: {}, packageCache: {}, fullPaths: true // Requirement of watchify
   });

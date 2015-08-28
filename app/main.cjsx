@@ -1,13 +1,14 @@
 #/** @jsx React.DOM */
 React = require 'react'
+Component = require './component'
 
 
 App = React.createClass
   render: ->
     return (
       <div>
-        <h1>Hello world 22!</h1>
-        <h2>test</h2>
+        <h1>NodeJS + browserify + ReactJS + CoffeeScript example!</h1>
+        <div>Hello {Component.hello}!</div>
       </div>
     )
 
