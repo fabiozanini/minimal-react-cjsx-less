@@ -22,3 +22,6 @@ are supported by more complex backend code that is beyond the scope of this repo
 * **build/**: Where your automatically builds to. Includes a static HTML file.
 * **styles/**: Where you put your less files
 * **gulpfile**: Gulp configuration
+
+### Technologies
+![React](readme_logos/react.svg)
