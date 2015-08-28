@@ -13,6 +13,10 @@ that includes CJSX and LESS transformations.
 * Go to `localhost:8889` to display the app
 * The app reloads automatically when the CJSX source files change (via `watchify`)
 
+### Notes
+* The web server here is a simple node `connect` instance, actual web applications
+are supported by more complex backend code that is beyond the scope of this repo
+
 ### Directory
 * **app/**: ReactJS application in CJSX
 * **build/**: Where your automatically builds to. Includes a static HTML file.
