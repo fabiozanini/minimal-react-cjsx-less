@@ -25,3 +25,10 @@ are supported by more complex backend code that is beyond the scope of this repo
 
 ### Technologies
 ![React](readme_logos/react.png)
+![Node](readme_logos/node.png)
+![NPM](readme_logos/npm.png)
+![Browserify](readme_logos/browserify.png)
+![Gulp](readme_logos/gulp.png)
+![Less](readme_logos/less.png)
+![CoffeeScript](readme_logos/coffeescript.png)
+
