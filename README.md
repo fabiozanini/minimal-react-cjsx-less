@@ -24,7 +24,7 @@ are supported by more complex backend code that is beyond the scope of this repo
 * **gulpfile**: Gulp configuration
 
 ### Technologies
-![React](readme_logos/react.png)
+[![React](readme_logos/react.png)](http://facebook.github.io/react/)
 ![Node](readme_logos/node.png)
 ![NPM](readme_logos/npm.png)
 ![Browserify](readme_logos/browserify.png)
